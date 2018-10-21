@@ -1,0 +1,36 @@
+h1
+{
+  color: grey;
+text-align: center; /* aligne le titre au milieu de la page */
+font-size: 66px;
+}
+h2
+{
+ color: grey;
+text-align: center; /* aligne le titre au milieu de la page */
+font-size: 40px;
+}
+h3
+{
+	 color: grey;
+text-align: center; /* aligne le titre au milieu de la page */
+font-size: 50px;
+}
+
+form {
+    /* Pour le centrer dans la page */
+    margin: 0 auto;
+    width: 400px;
+    }
+input
+{
+	 margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+body {
+
+background-image:url(background.png);
+}
+
