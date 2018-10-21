@@ -1,0 +1,30 @@
+h1
+{
+  color: grey;
+  font-size: 36px;
+}
+h1
+{
+	text-align: center; /* aligne le titre au milieu de la page */
+}
+input
+{
+	text-align: center; /* aligne le titre au milieu de la page */
+}
+label
+{
+  color:black;
+
+
+}
+label
+{
+display:block;
+float:left;
+width:100px;
+}
+form {
+    /* Pour le centrer dans la page */
+    margin: 0 auto;
+    width: 400px;
+    }
